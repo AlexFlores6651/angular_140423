@@ -18,6 +18,7 @@ export class AppComponent  {
       console.log(this.httpData);
       this.array=this.httpData.datos;
       console.log(this.array);
+      console.log("Manuel Alejandro Flores Ramirez");
     })
   }
 
